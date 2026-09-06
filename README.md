@@ -53,8 +53,8 @@
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/fawzi-mazjaji/mazjaji-linux/main/install.sh)
+```
 
----
 
     بعد انتهاء التنفيذ، ستكون جميع الأوامر العربية جاهزة للاستخدام فوراً.
 
