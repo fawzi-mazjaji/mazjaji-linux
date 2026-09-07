@@ -23,5 +23,8 @@ alias 'نوع'='type'
 alias 'اين'='which'
 alias 'مساعدة'='help'
 
+# أوامر التحكم في الطرفية
+alias 'اخرج'='exit'
+
 # أمر إضافي لسرد الأوامر العربية المتاحة
 alias 'اوامري'='grep "^alias" ~/arabic_commands/aliases.sh | sed "s/alias //g" | cut -d "=" -f1'
